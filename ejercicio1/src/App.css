@@ -36,6 +36,9 @@ select{
   width: 47%;
   margin-left: 3%;
   padding: 5px 10px;
+  background-color: rgb(85, 85, 85);
+  color: white;
+  border: none;
 }
 .list{
   margin-top: 50px;

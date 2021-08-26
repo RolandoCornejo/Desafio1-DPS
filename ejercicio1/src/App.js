@@ -55,7 +55,7 @@ function App() {
           <option key={valor.key} value={valor.key}>{valor.nombre}</option>
         )}
       </select>
-      <button className='add' onClick={(e) => addLista(select)}>Añadir</button>
+      <button className='add' onClick={(e) => addLista(select)}>Agregar</button>
       <div className='list'>
       {lista.map((valor, index) =>
         <Item
