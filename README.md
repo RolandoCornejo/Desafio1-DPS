@@ -8,8 +8,8 @@ Docente: Ing. Karens Meldrano
 
 Alumnos:
 
-|    Rolando José Cornejo Torres CT180058    |
-|--------------------------------------------|
-|    Paola Raquel Jiménez Torrez JT180795    |
+    Rolando José Cornejo Torres CT180058    
+
+    Paola Raquel Jiménez Torrez JT180795    
 
  
